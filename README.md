@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me: rahmadfani46@gmail.com
 <!--
 **RahmadFani/RahmadFani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

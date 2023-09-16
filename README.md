@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning DevOps tools like Docker, and more..
+- 💬 Ask me about Flutter 
 - 📫 How to reach me: rahmadfani46@gmail.com
 <!--
 **RahmadFani/RahmadFani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

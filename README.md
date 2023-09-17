@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Rahmad Fani, usually called Fani.. Nice to meet you..
 
 - 🌱 I’m currently learning DevOps tools like Docker, and more..
 - 💬 Ask me about Flutter 

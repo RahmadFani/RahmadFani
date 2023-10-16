@@ -1,6 +1,10 @@
 ### Hi there 👋
 My name is Rahmad Fani, usually called Fani.. Nice to meet you..
 
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=RahmadFani&label=Profile%20views&color=0047AB&style=plastic?" alt="rahmadfani" height=25px, width=160px/> 
+</p>
+
 - 🌱 I’m currently learning DevOps tools like Docker, and more..
 - 💬 Ask me about Flutter 
 - 📫 How to reach me: rahmadfani46@gmail.com
